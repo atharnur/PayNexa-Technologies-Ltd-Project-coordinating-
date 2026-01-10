@@ -1,10 +1,10 @@
-📄 Release_Plan.md
+📄 Release_Plan
 
 Phased rollout
 
 Controlled exposure
 
-📄 Rollout_Strategy.md
+📄 Rollout_Strategy
 
 10% → 30% → 100%
 
@@ -14,13 +14,13 @@ Automated rollback
 
 Data integrity validation
 
-📄 Hypercare_Model.md
+📄 Hypercare_Model
 
 14-day hypercare
 
 Dedicated support window
 
-📄 SLA_&_Support_Framework.md
+📄 SLA_&_Support_Framework
 
 Incident SLAs
 
