@@ -1,4 +1,4 @@
-Client_Background.md
+Client_Background
 Client Overview
 
 Client Name: PayNexa Technologies Ltd.
@@ -19,7 +19,7 @@ High operational dependency on manual processes
 Limited runway (cash burn sensitivity)
 
 
-📄 Founder_Narrative.md
+📄 Founder_Narrative
 
 “Initially, speed mattered more than structure.
 Now, we are stuck with multiple tools, spreadsheets, and partial systems.
@@ -35,7 +35,7 @@ We need control, visibility, and reliability — without burning cash.”
 
 This narrative was delivered over multiple conversations, often changing focus, reflecting typical startup ambiguity.
 
-📄 TPM_Problem_Interpretation.md
+📄 TPM_Problem_Interpretation.
 Observations
 
 Requirements were implicit and evolving
@@ -52,7 +52,7 @@ Core Problem Statement
 
 PayNexa lacked an internal, delivery-ready operational platform to support growth, compliance, and investor confidence, creating high business and regulatory risk.
 
-📄 Pain_Point_Analysis.md
+📄 Pain_Point_Analysis
 Area	Pain Point	Business Impact
 Operations	Fragmented systems	Data inconsistency
 Compliance	Manual KYC & reports	Regulatory exposure
