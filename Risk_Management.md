@@ -5,10 +5,10 @@ Weekly risk review
 Immediate escalation for high risks
 
 📄 Risk_Register.md
-Risk	Probability	Impact
-Scope creep	High	High
-Regulatory gaps	Medium	High
-Security issues	Medium	High
+Risk	            Probability	    Impact
+Scope creep	       High	           High
+Regulatory gaps	   Medium	         High
+Security issues	   Medium	         High
 📄 Risk_Heatmap.md
 
 High probability × high impact risks prioritized
